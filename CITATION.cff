@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite the article and this repository."
 title: "thresholdbias: bias from adverse-event reporting thresholds"
 version: 1.0.0
+doi: 10.5281/zenodo.23454916
 license: MIT
 authors:
   - family-names: Alqumbaey

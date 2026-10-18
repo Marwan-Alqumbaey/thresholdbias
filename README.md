@@ -3,6 +3,7 @@
 [![Python package](https://github.com/Marwan-Alqumbaey/thresholdbias/actions/workflows/python.yml/badge.svg)](https://github.com/Marwan-Alqumbaey/thresholdbias/actions/workflows/python.yml)
 [![R package](https://github.com/Marwan-Alqumbaey/thresholdbias/actions/workflows/r.yml/badge.svg)](https://github.com/Marwan-Alqumbaey/thresholdbias/actions/workflows/r.yml)
 [![Reproduce](https://github.com/Marwan-Alqumbaey/thresholdbias/actions/workflows/reproduce.yml/badge.svg)](https://github.com/Marwan-Alqumbaey/thresholdbias/actions/workflows/reproduce.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23454916.svg)](https://doi.org/10.5281/zenodo.23454916)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Code, data and software for the article
@@ -117,7 +118,8 @@ python validation/registry_spot_check.py
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff).
+Please cite the article and the archived release of this repository, doi:10.5281/zenodo.23454916
+(https://doi.org/10.5281/zenodo.23454916). See [`CITATION.cff`](CITATION.cff).
 
 ## License
 
