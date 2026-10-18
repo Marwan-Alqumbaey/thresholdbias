@@ -1,0 +1,8 @@
+# Versions used to produce the files in results/ (Python 3.11.15).
+# R checks were run with R 4.3.3, testthat 3.2.1 and jsonlite 1.8.8.
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+matplotlib==3.10.9
+pillow==12.2.0
+pytest==9.1.1

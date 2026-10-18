@@ -1,0 +1,8 @@
+{
+ "trials": 9414,
+ "threshold_missing": 3,
+ "rows": 401689,
+ "rows_invalid_counts": 228,
+ "duplicate_term_groups": 1159,
+ "rows_after_cleaning": 399882
+}

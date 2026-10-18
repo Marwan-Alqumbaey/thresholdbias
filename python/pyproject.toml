@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "thresholdbias"
+version = "1.0.0"
+description = "Bias from adverse-event reporting thresholds: exact theory and a selection-corrected estimator"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [
+    {name = "Marwan Alqumbaey", email = "marwanalqumbaey@gmail.com"},
+    {name = "Yousef M. Nasher", email = "yousefnasher76@gmail.com"},
+]
+dependencies = ["numpy>=1.24", "scipy>=1.10"]
+
+[project.urls]
+Repository = "https://github.com/Marwan-Alqumbaey/thresholdbias"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+analysis = ["pandas>=2.2", "matplotlib>=3.6", "pillow>=9"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

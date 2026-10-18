@@ -1,0 +1,396 @@
+{
+ "trials": {
+  "<0.9": 249,
+  "0.9-1.1": 688,
+  "1.1-1.7": 332,
+  ">=1.7": 311
+ },
+ "trials_with_events": {
+  "<0.9": 143,
+  "0.9-1.1": 409,
+  "1.1-1.7": 229,
+  ">=1.7": 239
+ },
+ "<0.9": {
+  "terms": 23,
+  "estimable_post": 23,
+  "estimable_pool": 23,
+  "median_shift_post": 0.0,
+  "ci_post": [
+   0.0,
+   0.0
+  ],
+  "p_one_sided_post": 1.0,
+  "frac_negative_post": 0.0,
+  "median_shift_pool": 0.006599340170618695,
+  "ci_pool": [
+   -0.05190503452847263,
+   0.04597525239007525
+  ],
+  "rows_posted_any": 462,
+  "rows_posted_pooled": 360,
+  "rows": 468,
+  "median": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "ivw_mean": {
+   "est": 0.008172186828793832,
+   "ci": [
+    0.0006638591470575061,
+    0.017823255227119993
+   ]
+  },
+  "median_ge5rows": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_lt5rows": {
+   "est": null,
+   "ci": [
+    null,
+    null
+   ]
+  },
+  "median_inf_incl": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_nearnull": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_post_common": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_pool_common": {
+   "est": 0.006599340170618695,
+   "ci": [
+    -0.05190503452847263,
+    0.04597525239007525
+   ]
+  },
+  "n_terms_ge5rows": 23,
+  "n_nonestimable_post": 0,
+  "n_no_posted_row": 0,
+  "n_one_arm_without_events": 0,
+  "n_terms_common": 23,
+  "significance": {
+   "lost": 0,
+   "gained": 0,
+   "both": 1,
+   "direction_changed": 0,
+   "n": 23
+  }
+ },
+ "0.9-1.1": {
+  "terms": 84,
+  "estimable_post": 84,
+  "estimable_pool": 83,
+  "median_shift_post": 0.0,
+  "ci_post": [
+   0.0,
+   0.0
+  ],
+  "p_one_sided_post": 1.0,
+  "frac_negative_post": 0.05952380952380952,
+  "median_shift_pool": 0.0089445767920035,
+  "ci_pool": [
+   -0.028383010777801716,
+   0.043445654498596914
+  ],
+  "rows_posted_any": 2149,
+  "rows_posted_pooled": 1362,
+  "rows": 2174,
+  "median": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "ivw_mean": {
+   "est": 0.004866173807802231,
+   "ci": [
+    -0.000781053697649641,
+    0.01131812951027572
+   ]
+  },
+  "median_ge5rows": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_lt5rows": {
+   "est": null,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_inf_incl": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_nearnull": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_post_common": {
+   "est": 0.0,
+   "ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "median_pool_common": {
+   "est": 0.0089445767920035,
+   "ci": [
+    -0.028383010777801716,
+    0.043445654498596914
+   ]
+  },
+  "n_terms_ge5rows": 84,
+  "n_nonestimable_post": 0,
+  "n_no_posted_row": 0,
+  "n_one_arm_without_events": 0,
+  "n_terms_common": 83,
+  "significance": {
+   "lost": 0,
+   "gained": 1,
+   "both": 14,
+   "direction_changed": 0,
+   "n": 84
+  }
+ },
+ "1.1-1.7": {
+  "terms": 65,
+  "estimable_post": 65,
+  "estimable_pool": 65,
+  "median_shift_post": -0.02086582697304884,
+  "ci_post": [
+   -0.02633352432393933,
+   0.0
+  ],
+  "p_one_sided_post": 0.699,
+  "frac_negative_post": 0.6153846153846154,
+  "median_shift_pool": -0.02089585955846565,
+  "ci_pool": [
+   -0.050234153205404385,
+   0.0
+  ],
+  "rows_posted_any": 1276,
+  "rows_posted_pooled": 1038,
+  "rows": 1339,
+  "median": {
+   "est": -0.02086582697304884,
+   "ci": [
+    -0.02633352432393933,
+    0.0
+   ]
+  },
+  "ivw_mean": {
+   "est": -0.027304679629068254,
+   "ci": [
+    -0.041415400710422094,
+    -0.012979089077347088
+   ]
+  },
+  "median_ge5rows": {
+   "est": -0.02086582697304884,
+   "ci": [
+    -0.026260451128012976,
+    0.0
+   ]
+  },
+  "median_lt5rows": {
+   "est": null,
+   "ci": [
+    -0.6247075566578443,
+    0.0
+   ]
+  },
+  "median_inf_incl": {
+   "est": -0.02086582697304884,
+   "ci": [
+    -0.02656038242231543,
+    0.0
+   ]
+  },
+  "median_nearnull": {
+   "est": -0.04368144999582714,
+   "ci": [
+    -0.03985395390951077,
+    0.0
+   ]
+  },
+  "median_post_common": {
+   "est": -0.02086582697304884,
+   "ci": [
+    -0.02650268791204074,
+    0.0
+   ]
+  },
+  "median_pool_common": {
+   "est": -0.02089585955846565,
+   "ci": [
+    -0.050234153205404385,
+    0.0
+   ]
+  },
+  "n_terms_ge5rows": 65,
+  "n_nonestimable_post": 0,
+  "n_no_posted_row": 0,
+  "n_one_arm_without_events": 0,
+  "n_terms_common": 65,
+  "significance": {
+   "lost": 2,
+   "gained": 0,
+   "both": 2,
+   "direction_changed": 3,
+   "n": 65
+  }
+ },
+ ">=1.7": {
+  "terms": 90,
+  "estimable_post": 90,
+  "estimable_pool": 87,
+  "median_shift_post": -0.18906629339672737,
+  "ci_post": [
+   -0.2570464973255606,
+   -0.13785833095629893
+  ],
+  "p_one_sided_post": 0.0,
+  "frac_negative_post": 0.9777777777777777,
+  "median_shift_pool": 0.015280273093839059,
+  "ci_pool": [
+   -0.0706712021425236,
+   0.022809483140841823
+  ],
+  "rows_posted_any": 1722,
+  "rows_posted_pooled": 1192,
+  "rows": 2181,
+  "median": {
+   "est": -0.18906629339672737,
+   "ci": [
+    -0.2570464973255606,
+    -0.13785833095629893
+   ]
+  },
+  "ivw_mean": {
+   "est": -0.13078843870156825,
+   "ci": [
+    -0.15684806562965362,
+    -0.0941579112532968
+   ]
+  },
+  "median_ge5rows": {
+   "est": -0.18906629339672737,
+   "ci": [
+    -0.24371333901540385,
+    -0.12972661700238228
+   ]
+  },
+  "median_lt5rows": {
+   "est": null,
+   "ci": [
+    -1.3778395332368936,
+    -0.34693093918859624
+   ]
+  },
+  "median_inf_incl": {
+   "est": -0.18906629339672737,
+   "ci": [
+    -0.2606408461504986,
+    -0.14079885876284473
+   ]
+  },
+  "median_nearnull": {
+   "est": -0.17968035373556251,
+   "ci": [
+    -0.25374610890545324,
+    -0.09071405342737131
+   ]
+  },
+  "median_post_common": {
+   "est": -0.18738412563822515,
+   "ci": [
+    -0.22860131103788353,
+    -0.12481873833938374
+   ]
+  },
+  "median_pool_common": {
+   "est": 0.015280273093839059,
+   "ci": [
+    -0.0706712021425236,
+    0.022809483140841823
+   ]
+  },
+  "n_terms_ge5rows": 90,
+  "n_nonestimable_post": 0,
+  "n_no_posted_row": 0,
+  "n_one_arm_without_events": 0,
+  "n_terms_common": 87,
+  "significance": {
+   "lost": 4,
+   "gained": 3,
+   "both": 5,
+   "direction_changed": 17,
+   "n": 90
+  }
+ },
+ "H2_difference": {
+  "est": -0.18906629339672737,
+  "ci": [
+   -0.2570464973255606,
+   -0.13785833095629893
+  ],
+  "p_one_sided": 0.0
+ },
+ "H2_difference_median_nearnull": {
+  "est": -0.17968035373556251,
+  "ci": [
+   -0.25374610890545324,
+   -0.09071405342737131
+  ]
+ },
+ "H2_difference_ivw_mean": {
+  "est": -0.1356546125093705,
+  "ci": [
+   -0.16211698663135204,
+   -0.09883195409822221
+  ]
+ },
+ "H2_difference_median_ge5rows": {
+  "est": -0.18906629339672737,
+  "ci": [
+   -0.24371333901540385,
+   -0.12972661700238228
+  ]
+ },
+ "bootstrap_resamples": 2000
+}

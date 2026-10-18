@@ -1,0 +1,564 @@
+{
+ "studies": [
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT02774343"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Pioglitazone + Therapy + Contingency Management",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 12,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 12
+      },
+      {
+       "title": "Placebo + Therapy + Contingency Management",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 14,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 14
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT03159104"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Tenoten for Children",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 122,
+       "otherNumAffected": 42,
+       "otherNumAtRisk": 122
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 2,
+       "seriousNumAtRisk": 118,
+       "otherNumAffected": 29,
+       "otherNumAtRisk": 118
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00999713"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Calfactant",
+       "seriousNumAffected": 15,
+       "seriousNumAtRisk": 26,
+       "otherNumAffected": 8,
+       "otherNumAtRisk": 26
+      },
+      {
+       "title": "Placebo (Air)",
+       "seriousNumAffected": 7,
+       "seriousNumAtRisk": 17,
+       "otherNumAffected": 1,
+       "otherNumAtRisk": 17
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT01156116"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Continuous Positive Airway Pressure",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 26,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 26
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 13,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 13
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00958282"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Lisdexamfetamine/Behavior Therapy",
+       "seriousNumAffected": 1,
+       "seriousNumAtRisk": 22,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 22
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 1,
+       "seriousNumAtRisk": 21,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 21
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT02712788"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Milrinone",
+       "seriousNumAffected": 1,
+       "seriousNumAtRisk": 2,
+       "otherNumAffected": 1,
+       "otherNumAtRisk": 2
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 1,
+       "seriousNumAtRisk": 2,
+       "otherNumAffected": 1,
+       "otherNumAtRisk": 2
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT01671956"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Bertilimumab",
+       "seriousNumAffected": 2,
+       "seriousNumAtRisk": 20,
+       "otherNumAffected": 14,
+       "otherNumAtRisk": 20
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 1,
+       "seriousNumAtRisk": 12,
+       "otherNumAffected": 5,
+       "otherNumAtRisk": 12
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT03005379"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Fecal Microbiota Therapy (FMT)",
+       "seriousNumAffected": 17,
+       "seriousNumAtRisk": 76,
+       "otherNumAffected": 19,
+       "otherNumAtRisk": 76
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 21,
+       "seriousNumAtRisk": 77,
+       "otherNumAffected": 28,
+       "otherNumAtRisk": 77
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00376220"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Active Treatment Group",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 47,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 47
+      },
+      {
+       "title": "Inactive/Placebo Group",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 47,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 47
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00510692"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "2g/Day Eicosapentanoic Acid (EPA)",
+       "seriousNumAffected": 3,
+       "seriousNumAtRisk": 29,
+       "otherNumAffected": 25,
+       "otherNumAtRisk": 29
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 29,
+       "otherNumAffected": 25,
+       "otherNumAtRisk": 29
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00097669"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Active VITATOPS Tablet (Folic Acid 2mg, B6 25mg , B12 500ug)",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 4089,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 4089
+      },
+      {
+       "title": "Placebo Tablet",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 4075,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 4075
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT03106740"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Minocycline Arm",
+       "seriousNumAffected": 1,
+       "seriousNumAtRisk": 30,
+       "otherNumAffected": 9,
+       "otherNumAtRisk": 30
+      },
+      {
+       "title": "Placebo Arm",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 30,
+       "otherNumAffected": 15,
+       "otherNumAtRisk": 30
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT06442891"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "ARM I (Relaxing Acupressure)",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 30,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 30
+      },
+      {
+       "title": "ARM II (Sham Acupressure)",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 12,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 12
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00944697"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Placebo Tablets",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 50,
+       "otherNumAffected": 22,
+       "otherNumAtRisk": 50
+      },
+      {
+       "title": "OXN PR Tablet",
+       "seriousNumAffected": 4,
+       "seriousNumAtRisk": 48,
+       "otherNumAffected": 36,
+       "otherNumAtRisk": 48
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00844090"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Methyphenidate",
+       "seriousNumAffected": 7,
+       "seriousNumAtRisk": 46,
+       "otherNumAffected": 28,
+       "otherNumAtRisk": 46
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 6,
+       "seriousNumAtRisk": 46,
+       "otherNumAffected": 25,
+       "otherNumAtRisk": 46
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00573144"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 5,
+       "seriousNumAtRisk": 28,
+       "otherNumAffected": 13,
+       "otherNumAtRisk": 28
+      },
+      {
+       "title": "Nesiritide",
+       "seriousNumAffected": 1,
+       "seriousNumAtRisk": 25,
+       "otherNumAffected": 13,
+       "otherNumAtRisk": 25
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT02389959"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Bevacizumab",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 20,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 20
+      },
+      {
+       "title": "Saline Control",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 20,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 20
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00201448"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Placebo (Hepatitis A)",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 42,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 42
+      },
+      {
+       "title": "Towne CMV Vaccine",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 40,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 40
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT02867384"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Obinutuzumab",
+       "seriousNumAffected": 28,
+       "seriousNumAtRisk": 90,
+       "otherNumAffected": 87,
+       "otherNumAtRisk": 90
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 12,
+       "seriousNumAtRisk": 88,
+       "otherNumAffected": 81,
+       "otherNumAtRisk": 88
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT00115297"
+    }
+   },
+   "resultsSection": {
+    "adverseEventsModule": {
+     "frequencyThreshold": "0",
+     "eventGroups": [
+      {
+       "title": "Montelukast",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 30,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 30
+      },
+      {
+       "title": "Placebo",
+       "seriousNumAffected": 0,
+       "seriousNumAtRisk": 32,
+       "otherNumAffected": 0,
+       "otherNumAtRisk": 32
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

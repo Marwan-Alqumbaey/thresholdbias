@@ -1,0 +1,55 @@
+name: Reproduce registry results
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  registry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - name: Install
+        run: |
+          python -m pip install -r requirements-lock.txt -e "./python[analysis]"
+          R CMD INSTALL r/thresholdbias
+      - name: Rebuild the primary registry analysis
+        run: |
+          cd analysis
+          python 01_build.py
+          python 02_rethreshold.py --tag ci_check --boot 50
+      - name: Compare with the published point estimates
+        run: |
+          python - <<'PY'
+          import pandas as pd
+          a = pd.read_csv("results/registry/rethreshold_ci_check_terms.csv")
+          b = pd.read_csv("results/registry/rethreshold_primary_terms.csv")
+          pd.testing.assert_frame_equal(a, b, rtol=1e-9, atol=1e-12)
+          print("Point estimates reproduced:", len(a), "terms")
+          PY
+      - name: Expected distortion for registry arm sizes
+        run: |
+          cp results/registry/bias_map.csv /tmp/bias_map_published.csv
+          (cd analysis && python 08_bias_map.py > /dev/null)
+          python - <<'PY'
+          import pandas as pd
+          a = pd.read_csv("results/registry/bias_map.csv")
+          b = pd.read_csv("/tmp/bias_map_published.csv")
+          pd.testing.assert_frame_equal(a, b, rtol=1e-9, atol=1e-12)
+          print("Bias map reproduced:", len(a), "rows")
+          PY
+      - name: Registry experiment in R
+        run: Rscript validation/reproduce_registry.R
+      - name: Theory checks
+        run: python validation/theory_checks.py
+      - name: Registry spot check
+        run: python validation/registry_spot_check.py

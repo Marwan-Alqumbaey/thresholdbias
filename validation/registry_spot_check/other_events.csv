@@ -1,0 +1,57 @@
+nct,group1_title,group2_title,term,group1_affected,group1_at_risk,group2_affected,group2_at_risk
+NCT00999713,Calfactant,Placebo (Air),Peri-dosing hypotension,3,26,0,17
+NCT00999713,Calfactant,Placebo (Air),Peri-dosing Hypoxia or Hypotension,4,26,1,17
+NCT00999713,Calfactant,Placebo (Air),Pneumomediatinum,1,26,0,17
+NCT01671956,Bertilimumab,Placebo,Dysgeusia,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Pruritus,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Blood alkaline phosphatase increased,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Oedema peripheral,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Abdominal distension,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Back pain,1,20,1,12
+NCT01671956,Bertilimumab,Placebo,Tongue disorder,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Dermatitis allergic,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Drug hypersensitivity,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Cardiac murmur,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Infusion related reaction,3,20,1,12
+NCT01671956,Bertilimumab,Placebo,Ovulation pain,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Pyrexia,0,20,2,12
+NCT01671956,Bertilimumab,Placebo,Chest pain,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Arthralgia,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Abdominal pain,2,20,0,12
+NCT01671956,Bertilimumab,Placebo,Anxiety,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Acute febrile neutrophilic dermatosis,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Osteopenia,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Nasopharyngitis,2,20,1,12
+NCT01671956,Bertilimumab,Placebo,Vomiting,0,20,1,12
+NCT01671956,Bertilimumab,Placebo,Chest discomfort,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Oropharyngeal pain,1,20,1,12
+NCT01671956,Bertilimumab,Placebo,Dizziness,1,20,1,12
+NCT01671956,Bertilimumab,Placebo,Gastroenteritis,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Sinusitis,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Asthenia,1,20,0,12
+NCT01671956,Bertilimumab,Placebo,Headache,1,20,2,12
+NCT01671956,Bertilimumab,Placebo,Dyspepsia,1,20,0,12
+NCT03106740,Minocycline Arm,Placebo Arm,Ecchymosis,4,30,6,30
+NCT03106740,Minocycline Arm,Placebo Arm,Vasovagal syncope,1,30,1,30
+NCT03106740,Minocycline Arm,Placebo Arm,Claustrophobia,0,30,2,30
+NCT03106740,Minocycline Arm,Placebo Arm,Discomfort,4,30,3,30
+NCT03106740,Minocycline Arm,Placebo Arm,Gastrointestinal discomfort,0,30,3,30
+NCT03106740,Minocycline Arm,Placebo Arm,Rash,0,30,1,30
+NCT03106740,Minocycline Arm,Placebo Arm,COVID-19 infection,3,30,1,30
+NCT03106740,Minocycline Arm,Placebo Arm,Shingles,0,30,1,30
+NCT03106740,Minocycline Arm,Placebo Arm,Pain,0,30,1,30
+NCT03106740,Minocycline Arm,Placebo Arm,Skin cancer removal,1,30,0,30
+NCT00573144,Placebo,Nesiritide,Arrhythmia,0,28,1,25
+NCT00573144,Placebo,Nesiritide,Post coronary angiogram related complications,4,28,3,25
+NCT00573144,Placebo,Nesiritide,Subsequent coronary angiogram with no intervention,2,28,1,25
+NCT00573144,Placebo,Nesiritide,Subsequent coronary angiogram with intervention other than LAD,3,28,1,25
+NCT00573144,Placebo,Nesiritide,Persistent ECG ST changes,0,28,1,25
+NCT00573144,Placebo,Nesiritide,Recurrent chest pain,1,28,1,25
+NCT00573144,Placebo,Nesiritide,Vasovagal spell,1,28,0,25
+NCT00573144,Placebo,Nesiritide,MRI dye allergy,1,28,0,25
+NCT00573144,Placebo,Nesiritide,Asthma flare,0,28,1,25
+NCT00573144,Placebo,Nesiritide,Fever,2,28,0,25
+NCT00573144,Placebo,Nesiritide,First episode of hypotension (asymptomatic),13,28,13,25
+NCT00573144,Placebo,Nesiritide,First episode of hypotension (symptomatic),0,28,2,25
+NCT00573144,Placebo,Nesiritide,Second episode of hypotension (asymptomatic),7,28,10,25
+NCT00573144,Placebo,Nesiritide,Second episode of hypotension (symptomatic),0,28,1,25
